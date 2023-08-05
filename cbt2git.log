@@ -1,0 +1,7 @@
+2023-08-06 01:22:42.570436 - Initialized conversion of CBT145
+2023-08-06 01:22:42.583190 - Received CBT.V505.FILE145.PDS from FILE145.XMI 
+2023-08-06 01:22:42.584108 - Found GUPI.bin containing application/octet-stream, moved to PDS/GUPI
+2023-08-06 01:22:42.585055 - Found KERMIT.bin containing application/octet-stream, moved to PDS/KERMIT
+2023-08-06 01:22:42.586000 - Found KERM40.bin containing application/octet-stream, moved to PDS/KERM40
+2023-08-06 01:22:42.587129 - Found UPDCNV0.bin containing application/octet-stream, moved to PDS/UPDCNV0
+2023-08-06 01:22:42.588132 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
