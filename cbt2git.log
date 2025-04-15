@@ -1,5 +1,5 @@
-2025-04-14 23:58:55.461905 - Received CBT.V508.FILE145.PDS from FILE145.XMI 
-2025-04-14 23:58:55.463392 - Found GUPI.bin (application/octet-stream) in CBT.V508.FILE145.PDS, moved to PDS/GUPI
-2025-04-14 23:58:55.464019 - Found KERMIT.bin (application/octet-stream) in CBT.V508.FILE145.PDS, moved to PDS/KERMIT
-2025-04-14 23:58:55.464215 - Found alias KERM40 to KERMIT in CBT.V508.FILE145.PDS, moved to PDS/KERM40
-2025-04-14 23:58:55.464403 - Found UPDCNV0.bin (application/octet-stream) in CBT.V508.FILE145.PDS, moved to PDS/UPDCNV0
+2025-04-15 18:48:05.347288 - Received CBT.V508.FILE145.PDS from FILE145.XMI 
+2025-04-15 18:48:05.348318 - Found GUPI.bin (application/octet-stream) in CBT.V508.FILE145.PDS, moved to PDS/GUPI
+2025-04-15 18:48:05.348872 - Found KERMIT.bin (application/octet-stream) in CBT.V508.FILE145.PDS, moved to PDS/KERMIT
+2025-04-15 18:48:05.348954 - Found alias KERM40 to KERMIT in CBT.V508.FILE145.PDS, moved to PDS/KERM40
+2025-04-15 18:48:05.349109 - Found UPDCNV0.bin (application/octet-stream) in CBT.V508.FILE145.PDS, moved to PDS/UPDCNV0
